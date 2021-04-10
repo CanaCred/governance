@@ -17,7 +17,7 @@ The *Canadian Credential Network* (the “Canacred”), is a not for profit Cana
 1. Manage the operation and maintenance of the *Canadian Credential Network Utility* (“the Utility”).
 2. Support for the *Canadian Credential Wallet Project* (the Wallet Project”), an open source project.
 
-### Membership Signing Requirements
+### Participation Signing Requirements
 Participation in or use of a project entity may require the signing of one or more contractual instruments.
 
 | Activity Type | Entity Name | Contractual Instruments |
@@ -31,7 +31,7 @@ For details pertaining to Utility Agreements, see "Exhibit B" of the Canadian Cr
 
 The *Canacred Wallet Project* does not require the signing of a *Contributors License Agreement (CLA)*.
 
-### Consortium Name
+### Official Name
 The name of the partciipant-driven funding entity supporting the CCNU is the Canadian Credential Network. The participants of the Canadian Credential Network shares a keen interest towards the establishment of trusted commerce. They believe in a set of fundamental *privacy by design principles* while mitigating financial and regulatory compliance risks.
 
 ## Governing Board

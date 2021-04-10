@@ -63,6 +63,14 @@ The PCTF Glossary provides definitions and examples for terms that appear across
 3. **Examples**–Examples or non-examples may be included to help clarify the intended meaning of a term; the examples provided are not intended to be an exhaustive list.
 4. **Synonyms**–Terms with same or similar meaning used in other communities of interest
 
+## Terms from PCTF Glossary
+### Entity
+An entity is a thing with a distinct and independent existence such as a person, organization, or device that can be subject to legislation, policy, or regulations within a context, and which may have certain rights, duties, and obligations. An entity can perform one or more roles in the digital ecosystem. 
+There are two types of entities: atomic entities and compound entities. An atomic entity is an entity that cannot be decomposed into smaller units. Persons are atomic entities. A compound entity is an entity that is comprised of one or more atomic entities. Organizations are compound entities.
+### Relationship
+A relationship is an association between two or more entities. The entities in the relationship can be any combination of atomic entities and compound entities. Relationships between entities must be differentiated from interactions between entities (i.e.,
+transaction execution).
+
 ## Abstract from Bedrock Business Utility Glossary
 
 ### Steward
